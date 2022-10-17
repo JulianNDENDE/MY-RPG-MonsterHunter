@@ -1,6 +1,6 @@
 # MY-RPG-MonsterHunter
 Création d'un jeu de type RPG sur le thème de Monster Hunter.  
-Le projet à été fait en C avec la librairie CSFML.
+Le projet à été fait en C avec la librairie CSFML, durant notre 1ère année à Epitech Bordeaux.
 
 # ![Screenshot du jeu](./assets/hud/Screenshot_20221017_133630.png?raw=true)
 
