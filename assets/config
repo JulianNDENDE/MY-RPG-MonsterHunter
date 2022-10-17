@@ -1,0 +1,16 @@
+window x:1280
+window y:768
+map format:128
+player base speed:20
+player base atk:10
+player base tek:15
+player base health:100
+volume:100
+framerate:30
+forward:25
+back:18
+left:16
+right:3
+interact:4
+dash:57
+sprite:assets/sprites/character/Soldier.png
